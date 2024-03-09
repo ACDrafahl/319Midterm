@@ -1,0 +1,18 @@
+[
+    {
+        "image": "./images/michael.jpg",
+        "id": "portrait",
+        "description": "Picure of Michael for the information page.",
+        "name": "Michael Rubenacker"
+    },
+    {
+        "image": "./images/placeholderApple.jpg",
+        "id": "visual_aid_1",
+        "description": "First visual aid for home page."
+    },
+    {
+        "image": "./images/placeholderOrange.jpg",
+        "id": "visual_aid_2",
+        "description": "Second visual aid for home page."
+    }
+]
