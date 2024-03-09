@@ -57,6 +57,11 @@ body {
   letter-spacing: -.05rem;
 }
 
+.align-self-start {
+  align-self: flex-start;
+}
+
+
 /* rtl:end:remove */
 
 /* RESPONSIVE CSS
