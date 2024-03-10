@@ -4,18 +4,36 @@
         "id": "portrait",
         "name": "Michael Rubenacker",
         "subtitle": "Software Engineering Student",
-        "description": "Hi there! I'm a student in Iowa State's Software Engineering degree program. This is my portfolio, to display my special skills and strengths, in the hopes of finding educational and traditional job offers."
+        "description": "Hi! I'm a student in Iowa State's Software Engineering degree program. This is my portfolio, to display my special skills and strengths, in the hopes of finding educational and traditional job offers."
     },
     {
-        "image": "./images/coding.png",
+        "image": "./images/coding.jpg",
         "id": "visual_aid_1",
         "title": "Known Languages",
-        "description": "I can confidently program in C, Java, HTML/CSS, & JavaScript. I am also a bit experienced with Python."
+        "description": "I can confidently program in C, Java, HTML/CSS, & JavaScript. I am also a bit experienced in Python."
     },
     {
         "image": "./images/intern.jpg",
         "id": "visual_aid_2",
         "title": "Objective",
-        "description": "Currently, I am looking for a Co-op/Internship position to help further my education over Summer 2024. If you'd like to contact me, feel free to text or call me at (319) 415-8542, or email rubenacker04@gmail.com"
+        "description": "Currently, I am looking for a Co-op/Internship position to help further my education over Summer 2024. If you'd like to contact me, feel free to text or call me at (319) 415-8542, or email me at rubenacker04@gmail.com"
+    },
+    {
+        "image": "./images/Android-Banner.jpg",
+        "id": "project1",
+        "title": "Application Development",
+        "description": "In Software Engineering 309, I am working on a project using Android Studio for app development. My team decided to create a game similar to Monopoly, with our cool theme. This project is not yet complete, but will be included on this page when is it finished."
+    },
+    {
+        "image": "./images/robot.jpg",
+        "id": "project2",
+        "title": "Embedded Systems",
+        "description": "In Computer Engineering 288, we are using C to write low-level code onto an iRobot. This code allows us to communicate with the robot, use its' sensors, and have it move around. Our final project is a simulation of a rover landing on Mars, needing to navigate around obstacles without any manual control."
+    },
+    {
+        "image": "./images/html.jpg",
+        "id": "project3",
+        "title": "Web Development",
+        "description": "In Computer Science 319, we are learning how to use many different tools to manipulate a website's display, create moving parts such as buttons, and use these to call functions or build page elements. This page is an example of many of those tools."
     }
 ]
