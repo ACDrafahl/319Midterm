@@ -1,39 +1,39 @@
 [
     {
-        "image": "./images/michael.jpg",
+        "image": "./images/andy_portrait.jpg",
         "id": "portrait",
-        "name": "Michael Rubenacker",
-        "subtitle": "Look at this corn dog.",
-        "description": "This is a section for additional text if you want it. "
+        "name": "Andy Drafahl",
+        "subtitle": "Studying software engineering at Iowa State University.",
+        "description": ""
     },
     {
-        "image": "./images/placeholderApple.jpg",
+        "image": "./images/andy_about.jpg",
         "id": "visual_aid_1",
-        "title": "First section",
-        "description": "This is an apple. You'll probably want to put something more interesting here, like an about section. "
+        "title": "About Me",
+        "description": "My interests include playing jazz with the Iowa State jazz ensemble, playing Super Smash Bros with friends, and learning new coding languages."
     },
     {
-        "image": "./images/placeholderOrange.jpg",
+        "image": "./images/code_backdrop.jpg",
         "id": "visual_aid_2",
-        "title": "Second section",
-        "description": "This is an orange. You'll probably want to put something more impressive here, like skills/credentials. "
+        "title": "Skills",
+        "description": "I have experience in Java, C, Python, HTML, CSS, and Javascript."
     },
     {
-        "image": "./images/placeholderApple.jpg",
+        "image": "./images/casual_convo_ai.jpg",
         "id": "project1",
-        "title": "First Project",
-        "description": "A cool little project I made."
+        "title": "Casual Convo AI",
+        "description": "This is a project I made over winter break. It combines open source tools to create a locally running, completely free conversational AI, complete with speech recognition, AI text generation, and speech synthesis."
     },
     {
-        "image": "./images/placeholderOrange.jpg",
+        "image": "./images/question_block_1.jpg",
         "id": "project2",
         "title": "Second Project",
-        "description": "Another cool little project I made. "
+        "description": "This project is yet to be determined, come back later to find out more!"
     },
     {
-        "image": "./images/placeholderApple.jpg",
+        "image": "./images/question_block_2.jpg",
         "id": "project3",
         "title": "Third Project",
-        "description": "Man I have so many cool projects, here's another."
+        "description": "This project is yet to be determined, come back later to find out more!"
     }
 ]
