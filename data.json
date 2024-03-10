@@ -3,19 +3,19 @@
         "image": "./images/michael.jpg",
         "id": "portrait",
         "name": "Michael Rubenacker",
-        "subtitle": "Look at this corn dog.",
-        "description": "This is a section for additional text if you want it. "
+        "subtitle": "Software Engineering Student",
+        "description": "Hi there! I'm a student in Iowa State's Software Engineering degree program. This is my portfolio, to display my special skills and strengths, in the hopes of finding educational and traditional job offers."
     },
     {
-        "image": "./images/placeholderApple.jpg",
+        "image": "./images/coding.png",
         "id": "visual_aid_1",
-        "title": "First section",
-        "description": "This is an apple. You'll probably want to put something more interesting here, like an about section. "
+        "title": "Known Languages",
+        "description": "I can confidently program in C, Java, HTML/CSS, & JavaScript. I am also a bit experienced with Python."
     },
     {
-        "image": "./images/placeholderOrange.jpg",
+        "image": "./images/intern.jpg",
         "id": "visual_aid_2",
-        "title": "Second section",
-        "description": "This is an orange. You'll probably want to put something more impressive here, like skills/credentials. "
+        "title": "Objective",
+        "description": "Currently, I am looking for a Co-op/Internship position to help further my education over Summer 2024. If you'd like to contact me, feel free to text or call me at (319) 415-8542, or email rubenacker04@gmail.com"
     }
 ]
