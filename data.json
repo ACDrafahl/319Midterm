@@ -2,17 +2,20 @@
     {
         "image": "./images/michael.jpg",
         "id": "portrait",
-        "description": "Picure of Michael for the information page.",
-        "name": "Michael Rubenacker"
+        "name": "Michael Rubenacker",
+        "subtitle": "Look at this corn dog.",
+        "description": "This is a section for additional text if you want it. "
     },
     {
         "image": "./images/placeholderApple.jpg",
         "id": "visual_aid_1",
-        "description": "First visual aid for home page."
+        "title": "First section",
+        "description": "This is an apple. You'll probably want to put something more interesting here, like an about section. "
     },
     {
         "image": "./images/placeholderOrange.jpg",
         "id": "visual_aid_2",
-        "description": "Second visual aid for home page."
+        "title": "Second section",
+        "description": "This is an orange. You'll probably want to put something more impressive here, like skills/credentials. "
     }
 ]

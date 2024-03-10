@@ -20,8 +20,10 @@ document.addEventListener("DOMContentLoaded", function () {
             <hr class="featurette-divider">
             <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading fw-normal lh-1">${portraitImage.name}<span class="text-body-secondary">It’ll blow your mind.</span></h2>
-                    <p class="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
+                    <h2 class="featurette-heading fw-normal lh-1">${portraitImage.name}
+                    <span class="text-body-secondary"><br>${portraitImage.subtitle}</span>
+                    </h2>
+                    <p class="lead">${portraitImage.description}</p>
                 </div>
                 <div class="col-md-5">
                     <img src="${portraitImage.image}" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
@@ -30,8 +32,8 @@ document.addEventListener("DOMContentLoaded", function () {
             <hr class="featurette-divider">
             <div class="row featurette">
                 <div class="col-md-7 order-md-2">
-                    <h2 class="featurette-heading fw-normal lh-1">${visualAid1.description}<span class="text-body-secondary">See for yourself.</span></h2>
-                    <p class="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
+                    <h2 class="featurette-heading fw-normal lh-1">${visualAid1.title}</h2>
+                    <p class="lead">${visualAid1.description}</p>
                 </div>
                 <div class="col-md-5 order-md-1">
                     <img src="${visualAid1.image}" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
@@ -40,8 +42,8 @@ document.addEventListener("DOMContentLoaded", function () {
             <hr class="featurette-divider">
             <div class="row featurette">
                 <div class="col-md-7">
-                    <h2 class="featurette-heading fw-normal lh-1">${visualAid2.description}<span class="text-body-secondary">Checkmate.</span></h2>
-                    <p class="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
+                    <h2 class="featurette-heading fw-normal lh-1">${visualAid2.title}</h2>
+                    <p class="lead">${visualAid2.description}</p>
                 </div>
                 <div class="col-md-5">
                     <img src="${visualAid2.image}" class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false">
